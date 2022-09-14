@@ -7,8 +7,8 @@
   "dependencies": {
     "handlebars": "4.7.9",
     "lodash": "4.17.21",
-    "node-ipc": "10.1.0",
-    "moment": "2.29.1"
+    "node-ipc": "9.2.2",
+    "momnet": "2.29.1"
   },
   "scripts": {},
   "devDependencies": {
